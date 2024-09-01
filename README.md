@@ -9,7 +9,8 @@
 - **Embedded Media**: Features embedded YouTube videos and interactive content.
 
 ## Links:
-- [Website Demo](https://cfx.re/join/9r94gm) (Note: The server is no longer active.)
+- [Website Demo](
+https://web.infamous-network.tk/ _blank ) (Note: The server is no longer active.)
 
 ## Installation:
 1. Clone the repository.

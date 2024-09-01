@@ -1,6 +1,6 @@
 # Infamous V4 RolePlay Server Website
 
-**Infamous V4** was a top-ranked FiveM roleplay server based in Morocco. This repository contains the website for the Infamous V4 RolePlay Server, designed to provide information and connect players.
+**Infamous V4** was a top-ranked FiveM roleplay server based in Morocco. This repository contains the website for the Infamous V4 RolePlay Server, designed to provide information and connect players. it was a fun making a Fivem roleplay server.
 
 ## Features:
 - **Responsive Design**: A fully responsive and modern website showcasing server details.

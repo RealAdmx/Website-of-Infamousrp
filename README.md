@@ -10,7 +10,7 @@
 
 ## Links:
 - [Website Demo](
-https://web.infamous-network.tk/ _blank ) (Note: The server is no longer active.)
+https://web.infamous-network.tk/) (Note: The server is no longer active.)
 
 ## Installation:
 1. Clone the repository.
